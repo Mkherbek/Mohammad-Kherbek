@@ -32,12 +32,12 @@ This background directly supports work in:
 **Artificial Intelligence – Recommendation Systems**  
 Saint Petersburg Electrotechnical University "LETI", Russia  
 *Program: Software Engineering specialization, full-time MSc*  
-:contentReference[oaicite:0]{index=0}
+
 
 ### **Bachelor’s Degree – Mechatronics (2023)**  
 Higher Institute for Applied Sciences and Technology (HIAST) + Tishreen University, Syria  
 *Awarded certificate of academic excellence*  
-:contentReference[oaicite:1]{index=1}
+
 
 ---
 
