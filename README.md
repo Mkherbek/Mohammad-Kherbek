@@ -45,11 +45,11 @@ Higher Institute for Applied Sciences and Technology (HIAST) + Tishreen Universi
 
 ### **Machine Learning, Software, and Scientific Skills**
 - **Programming for Everybody (Python)** – University of Michigan, Coursera  
-  :contentReference[oaicite:2]{index=2}
+
 - **How to Write Scientific Articles** – Stepik  
-  :contentReference[oaicite:3]{index=3}
+
 - **Docker for Beginners + Hands-On Experience** – Stepik  
-  :contentReference[oaicite:4]{index=4}
+
 
 ### **Soft Skills and Organizational Skills**
 - **How to Build a Learning Organization** – Alfaisal University | Coursera (Arabic)  
@@ -57,17 +57,17 @@ Higher Institute for Applied Sciences and Technology (HIAST) + Tishreen Universi
 
 ### **Academic Preparation Certifications**
 From Saint Petersburg Electrotechnical University “LETI”:  
-- Russian as a Foreign Language (1484 hours)  
-- Informatics (176 hours)  
-- Mathematics (358 hours)  
-- Physics (358 hours)  
-:contentReference[oaicite:5]{index=5}
+- Russian as a Foreign Language  
+- Informatics
+- Mathematics  
+- Physics
+
 
 ### **Participation & Volunteering**
 - **ACPC / ICPC Volunteer** – HIAST + Syrian Virtual University Contest (2019)  
-  :contentReference[oaicite:6]{index=6}
+
 - **Readiness for Labour Market (MENA)** – Kingston Business Academy  
-  :contentReference[oaicite:7]{index=7}
+
 
 ---
 
@@ -112,7 +112,7 @@ Mathematical framework for analysing reliability and recovery behaviour in multi
 ## 🌍 Languages
 - Arabic – Native  
 - English – Advanced  
-- Russian – Advanced  
+- Russian – intermediate
 
 ---
 
