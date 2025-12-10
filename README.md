@@ -107,8 +107,6 @@ Implementation and evaluation of LightGCN vs KGAT/KGIN on large semantic graphs.
 ### **Stochastic Modelling Framework for Redundant MEC Clusters (Conceptual Work)**
 Mathematical framework for analysing reliability and recovery behaviour in multi-access edge computing systems.
 
-*(Add GitHub links to these projects when you upload the code.)*
-
 ---
 
 ## 🌍 Languages
@@ -120,7 +118,7 @@ Mathematical framework for analysing reliability and recovery behaviour in multi
 
 ## 📫 Contact
 - **Email:** m.kherbek@yandex.com  
-- **GitHub:** [https://github.com/your-username](https://github.com/Mkherbek)  
+- **GitHub:** [https://github.com/Mohammad_Kherbek](https://github.com/Mkherbek)  
 
 ---
 
